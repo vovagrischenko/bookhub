@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="1c_corset@localhost" uuid="4737a799-e5c9-4045-b3fa-bd32e0a40e9e">
+    <data-source source="LOCAL" name="bookhub@localhost" uuid="db23d42e-7cf1-4a37-a61f-69f972a49600">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://localhost:3306/1c_corset</jdbc-url>
+      <jdbc-url>jdbc:mariadb://localhost:3306/bookhub</jdbc-url>
       <jdbc-additional-properties>
         <property name="database.introspection.mysql.dbe5060" value="true" />
       </jdbc-additional-properties>
